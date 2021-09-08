@@ -2,7 +2,6 @@
 - 👀 I’m interested in Android Developmnt, Java, Kotlin, and Python.
 - 🌱 I’m currently learning Jetpack Compose
 - 💞️ I’m looking to collaborate on almost anything
-- 📫 How to reach me b.vogtman@outlook.com
 
 <!---
 phoenixredwolf/phoenixredwolf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
