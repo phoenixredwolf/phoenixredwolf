@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Barret Vogtman
 - 👀 I’m interested in Android Developmnt, Java, Kotlin, and Python.
-- 🌱 I’m currently learning Android Development
+- 🌱 I’m currently learning Jetpack Compose
 - 💞️ I’m looking to collaborate on almost anything
 - 📫 How to reach me b.vogtman@outlook.com
 
